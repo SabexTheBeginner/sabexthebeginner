@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SabexTheBeginner
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning Godot and Pixel Art
-- 💞️ I’m looking to collaborate on Nothing For Now
-- 📫 How to reach me IDK You know that, not me
+- 👋 Hi, I’m @Sabex
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
